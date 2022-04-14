@@ -1,0 +1,47 @@
+body{
+    margin: auto;    
+}
+
+.container {
+   text-align: center;
+    align-items: center;
+  }
+
+img {
+    width: 450px;
+    margin: auto;
+}
+
+p{
+    width: 450px;
+    margin: auto;
+    text-align: justify;
+    font-family:'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.8);
+    padding: 10px 20px;
+}
+
+.despedida{
+    margin-bottom: 20px;
+}
+.logo-autopia{
+    width: 197px;
+}
+
+.link-autopia{
+    background: rgba(234, 234, 234, 0.78);
+    width: 450px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.link-autopia p{
+    text-align: center;
+}
+
+.boton{
+    width: 280px;
+    margin-bottom: 50px;
+}
